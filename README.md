@@ -1,113 +1,91 @@
-# 🎯 Guía Paso a Paso para Registrarte en Azure for Students
+# 🚀 Guía Completa para Obtener Azure for Students
 
-## 📋 Requisitos Iniciales
+## 🧾 Requisitos Previos
 
-- ✔️ Correo electrónico institucional (ej: tu_nombre@universidad.edu)
-- ✔️ Cuenta Microsoft (puedes crearla durante el proceso)
-- ✔️ 5-10 minutos de tiempo disponible
+Antes de comenzar, asegúrate de tener:
 
----
-
-## 🔵 Paso 1: Accede al Portal Oficial
-
-1. Abre tu navegador web.
-2. Ingresa a: [https://azure.microsoft.com/free/students/](https://azure.microsoft.com/free/students/)
-3. Haz clic en el botón **"Activar ahora"** (color azul).
+- 🎓 Un correo electrónico universitario válido (ejemplo: nombre@universidad.edu)
+- 🔐 Una cuenta Microsoft activa (puedes crearla si no tienes una)
+- ⏱️ Entre 5 y 10 minutos de tu tiempo libre
 
 ---
 
-## 📧 Paso 2: Verificación de Identidad
+## 🌐 Paso 1: Ingresa al Sitio Oficial
+
+1. Abre tu navegador favorito.
+2. Visita: [https://azure.microsoft.com/free/students/](https://azure.microsoft.com/free/students/)
+3. Haz clic en el botón azul que dice **"Activar ahora"**.
+
+---
+
+## ✉️ Paso 2: Confirma tu Identidad
 
 - Inicia sesión con tu cuenta Microsoft:
-  - Si ya tienes cuenta (Hotmail, Outlook, Xbox): ingresa tus datos.
-  - Si no tienes, haz clic en **"Crear una"** y completa el formulario.
-- Ingresa tu correo institucional cuando se solicite.
-- Revisa tu bandeja de entrada y busca el **código de verificación**.
-- Ingresa el código recibido.
+  - Si ya tienes una (Outlook, Hotmail, Xbox), solo inicia sesión.
+  - Si no, selecciona **"Crear cuenta"** y sigue los pasos.
+- Cuando se te pida, introduce tu **correo institucional**.
+- Revisa tu bandeja de entrada y copia el **código de verificación** que te enviaron.
+- Pégalo en el formulario y continúa.
 
 ---
 
-## 📝 Paso 3: Completa tu Información
+## 🖊️ Paso 3: Rellena tus Datos Académicos
 
-Rellena el formulario con:
+Completa el formulario con la siguiente información:
 
-- 🧾 Nombre completo (como aparece en documentos académicos)
-- 🌍 País y región de tu institución
-- 🎓 Nombre de tu universidad o escuela
-- 📘 Confirmar que eres estudiante de tiempo completo o medio tiempo
-
----
-
-## ✅ Paso 4: Acepta los Términos
-
-1. Lee cuidadosamente los términos del servicio.
-2. Marca las casillas de:
-   - Acuerdo de suscripción
-   - Declaración de privacidad
-3. Haz clic en **"Registrarse"**
+- 👤 Nombre y apellido (tal como aparecen en tus documentos oficiales)
+- 🌎 País y región donde se encuentra tu institución educativa
+- 🏫 Nombre exacto de tu universidad o centro de estudios
+- 📚 Confirma tu estado actual como estudiante
 
 ---
 
-## 🎉 Paso 5: ¡Registro Completado!
+## 📑 Paso 4: Acepta las Condiciones
 
-- Verás la pantalla de bienvenida al portal de Azure.
-- Recibirás un correo de confirmación.
-- Tu crédito de **$100 USD** estará disponible de inmediato.
-
----
-
-## 🔍 Primeros Pasos Recomendados
-
-- Configura alertas de gasto en: `Portal Azure > Cost Management`
-- Activa tu **GitHub Student Pack**
-- Explora los servicios gratuitos marcados con **"Gratis"**
+1. Lee los términos de uso del servicio.
+2. Marca las opciones de:
+   - Aceptación de la suscripción
+   - Política de privacidad
+3. Presiona el botón **"Registrarse"** para continuar
 
 ---
 
-## ⚠️ Posibles Problemas y Soluciones
+## 🎊 Paso 5: ¡Ya estás dentro!
 
-| Error                                | Solución                                                                 |
-|-------------------------------------|--------------------------------------------------------------------------|
-| "Correo no reconocido"              | Contacta al departamento de TI de tu universidad                        |
-| No llega código de verificación     | Revisa carpeta SPAM o solicita reenvío                                  |
-| "Institución no válida"             | Intenta con documento estudiantil en verificación manual                |
-| "Cuenta ya registrada, sin créditos"| Regístrate en el programa Azure Starter para activar créditos adicionales|
+- Serás redirigido al panel principal de Azure.
+- Recibirás un correo con la confirmación de tu registro.
+- Obtendrás automáticamente **$100 USD en crédito** para explorar los servicios de la nube.
 
 ---
 
-## 💡 Consejo Profesional
 
-Guarda una **captura de pantalla** del registro exitoso y el **correo de confirmación** como comprobante.
 
----
+## 🛠️ Problemas Frecuentes y Soluciones
 
-## 🌟 Creador del Proyecto 🙌
-
-**🧙‍♂️ Alberto José Hincapié Martínez**  
-*"Estudiante Apasionado de Ingeniería de Sistemas"*
-
----
-
-## 🏆 Habilidades Especiales
-
-- 🛠️ Auxiliar Multifuncional: Apoyo en Sistemas, IT y TIC.
-- 💻 Desarrollo de Software: Full Stack Developer (front-end + back-end).
-- 🔐 Ciberseguridad: Protección de datos y redes.
-- 🖥️ Mantenimiento de Computadores: Diagnóstico y reparación de equipos.
+| Inconveniente                        | Cómo resolverlo                                                        |
+|-------------------------------------|------------------------------------------------------------------------|
+| "Correo no aceptado"                | Solicita ayuda al área de TI de tu institución                         |
+| No recibes el código de verificación| Verifica tu carpeta de SPAM o solicita que lo envíen de nuevo          |
+| "Institución no reconocida"         | Usa tu carnet o documento como prueba en el proceso de verificación    |
+| "Cuenta existente sin crédito"      | Accede al programa **Azure Starter** para solicitar créditos extra     |
 
 ---
 
-## 🎨 Herramientas Digitales
 
-- 📊 **Excel**: Análisis de datos.
-- 🎨 **Photoshop**: Diseño y edición gráfica.
-- ⚕️ **SG-SST (50 Horas)**: Formación en seguridad laboral.
-- 📢 **Marketing Digital**: Estrategias en SEO y redes sociales.
+
+## ✨ Autor del Tutorial
+
+**👨‍💻 JUAN DAVID ESPITIA**  
+*"Estudiante de Ingeniería en Sistemas apasionado por la tecnología y el aprendizaje continuo."*
 
 ---
 
-## 🔗 Recursos Útiles
 
-- [Documentación de Azure](https://learn.microsoft.com/es-es/azure/)
-- [Microsoft Learn for Students](https://learn.microsoft.com/en-us/training/students/)
-- [GitHub Student Developer Pack](https://education.github.com/pack)
+
+
+## 🔗 Recursos de Interés
+
+- [Documentación oficial de Azure](https://learn.microsoft.com/es-es/azure/)
+- [Microsoft Learn para estudiantes](https://learn.microsoft.com/en-us/training/students/)
+- [Pack de herramientas para estudiantes en GitHub](https://education.github.com/pack)
+
