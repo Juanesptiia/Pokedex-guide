@@ -1,15 +1,6 @@
 # ☁️ Implementación Profesional de la Aplicación Pokedex en la nube Azure Static Web Apps
 
-**🌐 Aplicación desplegada en producción:**  
-[https://salmon-river-04e95b810.6.azurestaticapps.net](https://salmon-river-04e95b810.6.azurestaticapps.net)
 
-**✍️ Autor:** Juan David Espitia  
-**📂 Repositorio personal:** [https://github.com/Juanesptiia](https://github.com/Juanesptiia)  
-**📚 Curso:** Sistemas Distribuidos  
-**🎓 Programa:** Ingeniería de Sistemas, Noveno Semestre  
-**📅 Fecha:** 13 de abril de 2025
-
----
 
 ## 1. 📌 Clonar el Proyecto Base
 
@@ -26,5 +17,14 @@ Dirígete a tu repositorio forkeado:
 [https://github.com/Juanesptiia](https://github.com/Juanesptiia)
 
 Ingresa a la siguiente ruta dentro de tu proyecto:
+**🌐 Aplicación desplegada en producción:**  
+[https://salmon-river-04e95b810.6.azurestaticapps.net](https://salmon-river-04e95b810.6.azurestaticapps.net)
 
+**✍️ Autor:** Juan David Espitia  
+**📂 Repositorio personal:** [https://github.com/Juanesptiia](https://github.com/Juanesptiia)  
+**📚 Curso:** Sistemas Distribuidos  
+**🎓 Programa:** Ingeniería de Sistemas, Noveno Semestre  
+**📅 Fecha:** 20 de abril de 2025
+
+---
 
