@@ -49,9 +49,7 @@ Allí podrás observar la ejecución automática del workflow de Azure. Espera a
 ## 4. 🌍 Acceso a la Aplicación en Azure
 
 Una vez finalizado el proceso, accede al portal de Azure y navega a tu recurso **Static Web App**.  
-Haz clic en **"Ir al recurso"** y copia el enlace de acceso público. También puedes ingresar directamente aquí:
-
-🔗 [https://salmon-river-04e95b810.6.azurestaticapps.net](https://salmon-river-04e95b810.6.azurestaticapps.net)
+Haz clic en **"Ir al recurso"** y copia el enlace de acceso público. 
 
 ---
 
