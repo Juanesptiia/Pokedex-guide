@@ -1,4 +1,4 @@
-# ☁️ Implementación Profesional de una Aplicación Pokedex en Azure Static Web Apps
+# ☁️ Implementación Profesional de la Aplicación Pokedex en la nube Azure Static Web Apps
 
 **🌐 Aplicación desplegada en producción:**  
 [https://salmon-river-04e95b810.6.azurestaticapps.net](https://salmon-river-04e95b810.6.azurestaticapps.net)
