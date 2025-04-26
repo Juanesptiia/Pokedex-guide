@@ -6,7 +6,7 @@ Antes de comenzar, asegúrate de tener:
 
 - 🎓 Un correo electrónico universitario válido (ejemplo: nombre@universidad.edu)
 - 🔐 Una cuenta Microsoft activa (puedes crearla si no tienes una)
-- ⏱️ Entre 5 y 10 minutos de tu tiempo libre
+
 
 ---
 
